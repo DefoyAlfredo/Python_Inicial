@@ -14,9 +14,6 @@ python3 -m venv .venv
 luego para activarlo seria 
 source .venv/bin/activate   
 se recomienda instalar las librerias nesesarias 
-colorama 
-pip install colorama
-y  pathlib
-pip install pathlib
-o ejecutar el archivo requeriments.txt
+ya fue modificado para comprobar si esta colorama instalado si no lo esta lo instala.
+
 pip install -r requeriments.txt
