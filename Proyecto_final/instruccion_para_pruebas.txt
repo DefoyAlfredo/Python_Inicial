@@ -18,5 +18,5 @@ colorama
 pip install colorama
 y  pathlib
 pip install pathlib
-o ejecutar el archivo requeriment.txt
-pip install -r requeriment.txt
+o ejecutar el archivo requeriments.txt
+pip install -r requeriments.txt
