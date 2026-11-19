@@ -1,0 +1,15 @@
+# Entorno virtual
+.venv/
+
+# Base de datos
+*.db
+
+# Logs
+*.log
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
