@@ -1,0 +1,22 @@
+para la prueba del siguiente programa se recomienda el uso de entono virtual de python en vscode
+
+el mismo se puede inicializar de la siguiente manera 
+estando en la consola de vscode
+ejecutar lo siguinete 
+si esta en windows  de la siguiente manera
+python -m venv -venv
+luego lo activamos 
+ .venv\Scripts\activate  
+
+si estamos en linux o mac
+seria 
+python3 -m venv .venv 
+luego para activarlo seria 
+source .venv/bin/activate   
+se recomienda instalar las librerias nesesarias 
+colorama 
+pip install colorama
+y  pathlib
+pip install pathlib
+o ejecutar el archivo requeriment.txt
+pip install -r requeriment.txt
